@@ -1,0 +1,107 @@
+.container { 
+    width: 1220px;
+    height: 65px;
+    margin: 0 auto;
+    background-color: lightblue;
+    
+
+}   
+.flex-header { display: flex; 
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+}
+.ul-element {
+    display: flex;
+    width: 601px;
+    justify-content: space-between;
+    margin-right: 40px;
+    color: black;
+    font-size: 18px;
+}
+.consulting {
+    width: 184px;
+    height: 65px;
+    background-color: #6B77E5;
+    color: white; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.a-clas1 {
+    color: black;
+    font-size: 18px;
+}
+.container1 {
+     width: 1220px;
+     height: 510px;
+    margin: 0 auto;
+    margin-top: 136px;
+    background-color: lightblue;
+    border:  solid 1px black ;
+}
+ .wraper {
+    display: flex;
+    justify-content: space-between;
+ }
+.text-block {
+    width: 348px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 41px;
+}
+.div-box1 {
+    text-align: center;
+    width: 386px;
+    height: 383px;
+
+}
+.text-h3 {
+    color: #37393F;
+    font-size: 25px;
+    margin-bottom: 16px;
+
+}
+.text-parag {
+    color: #7D7D7D;
+    font-size: 18px;
+}
+.span-clas1 {
+    text-align: center;
+    color: #6B77E5;
+    font-size: 18px;
+}
+.h2-clas1 {
+    color: #37393F;
+    font-size: 18px;
+
+}
+.h3-clas1 {
+    color:#37393F;
+    font-size: 40px;
+
+}
+.div-image-box {
+    width: 511px;
+    height: 270.5px;
+    position: absolute;
+    border: 2px solid white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.image-div1 {
+    position: relative;
+
+}
+.img-el {
+    width: 100%;
+}
